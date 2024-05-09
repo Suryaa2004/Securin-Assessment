@@ -1,0 +1,17 @@
+#cveTable
+{
+    border: 2px solid black;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+th{
+    border: 2px solid black;
+}
+#cveTableBody{
+    
+}
